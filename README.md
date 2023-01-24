@@ -34,7 +34,7 @@ Pré-requisitos: Java 17+
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/salgeee/workshop-springboot3-jpa.git
 
 # entrar na pasta do projeto back end
 cd backend
