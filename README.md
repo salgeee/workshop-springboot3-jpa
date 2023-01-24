@@ -30,7 +30,7 @@ A aplicação consiste em um web service, onde é divido em camadas quais são, 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17+
 
 ```bash
 # clonar repositório
