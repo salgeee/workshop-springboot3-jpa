@@ -36,8 +36,8 @@ Pré-requisitos: Java 17+
 # clonar repositório
 git clone https://github.com/salgeee/workshop-springboot3-jpa.git
 
-# entrar na pasta do projeto back end
-cd backend
+# entrar na pasta do projeto 
+git bash here
 
 # executar o projeto
 ./mvnw spring-boot:run
