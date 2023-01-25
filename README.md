@@ -4,8 +4,7 @@
 # Sobre o projeto
 
 
-Web Services com Spring Boot e JPA/Hibernate é uma aplicação backend, com padrão REST, construída durante o curso Java COMPLETO 2023 Programação Orientada a Objetos + Projetos
-,evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Web Services com Spring Boot e JPA/Hibernate é uma aplicação backend, com padrão REST, construída durante o curso Java COMPLETO 2023 Programação Orientada a Objetos + Projetos, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um web service, onde é divido em camadas quais são, Resource Layer(rest controllers) recebe as requisições e respondem de acordo com o comportamento do sistema, existe também a Service Layer e a Data Access Layer, toda essa pilha de camadas conversa com as entidades do projeto.
 
